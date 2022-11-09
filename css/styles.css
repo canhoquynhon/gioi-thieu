@@ -11443,6 +11443,9 @@ html {
 }
 .masthead .masthead-avatar {
   width: 15rem;
+}
+
+img.masthead-avatar {
   border-radius: 50%;
 }
 
